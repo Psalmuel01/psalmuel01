@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **dahunsisamuel1st@gmail.com**
 
-- ⚡ Fun fact **I love good music**
+- ⚡ Fun fact **I love coding with music**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
