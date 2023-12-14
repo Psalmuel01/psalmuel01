@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/dahunsisamuel5" target="blank"><img src="https://img.shields.io/twitter/follow/dahunsisamuel5?logo=twitter&style=for-the-badge" alt="dahunsisamuel5" /></a> </p>
 
-- 🔭 I’m currently working on [Badagry](https://taikai.network/ayalabs/hackathons/ayathon/projects/clldn8c5h002huf014c9s3hi3/idea) and [Web3 Blog](https://github.com/psalmuel01/web3-blog)
+- 🔭 I’m currently working on [Address Watcher](https://github.com/psalmuel01/address-watcher) and [Web3 Blog](https://github.com/psalmuel01/web3-blog)
 
 - 🌱 I’m currently learning **Solidity**
 
