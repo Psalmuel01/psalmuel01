@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on [BlocHealth](https://github.com/psalmuel01/blochealth) and [QuikDB](https://github.com/quikDB)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust and Zk**
 
-- 💬 Ask me about **CSS, JavaScript, React and Solidity**
+- 💬 Ask me about **JavaScript, React, Solidity and ZK**
 
 - 📫 How to reach me **dahunsisamuel1st@gmail.com**
 
