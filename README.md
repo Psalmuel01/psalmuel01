@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/dahunsisamuel5" target="blank"><img src="https://img.shields.io/twitter/follow/dahunsisamuel5?logo=twitter&style=for-the-badge" alt="dahunsisamuel5" /></a> </p>
 
-- 🔭 I’m currently working on [Address Watcher](https://github.com/psalmuel01/address_watcher) and [Web3 Blog](https://github.com/psalmuel01/web3-blog)
+- 🔭 I’m currently working on [BlocHealth](https://github.com/psalmuel01/blochealth) and [QuikDB](https://github.com/quikDB)
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **CSS, JavaScript, React and Solidity**
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/psalmuel1st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dahunsisamuel5" height="30" width="40" /></a>
+<a href="https://twitter.com/psalmuel_1st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dahunsisamuel5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samuel-dahunsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-dahunsi" height="30" width="40" /></a>
 <a href="https://instagram.com/dahunsi_sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dahunsi_sam" height="30" width="40" /></a>
 <a href="https://www.behance.net/psalmuel01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="psalmuel01" height="30" width="40" /></a>
