@@ -1,14 +1,14 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://bit.ly/work-with-samuel)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://psalmuel.lovable.app)
 
 <h1 align="center">Hi 👋, I'm Samuel Dahunsi</h1>
-<h3 align="center">Web3 Frontend Developer and Smartcontract Writer</h3>
+<h3 align="center">Web3 FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psalmuel01&label=Profile%20views&color=0e75b6&style=flat" alt="psalmuel01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dahunsisamuel5" target="blank"><img src="https://img.shields.io/twitter/follow/dahunsisamuel5?logo=twitter&style=for-the-badge" alt="dahunsisamuel5" /></a> </p>
 
-- 🔭 I’m currently working on [BlocHealth](https://github.com/psalmuel01/blochealth) and [QuikDB](https://github.com/quikDB)
+- 🔭 I’m currently working on [QuikDB](https://github.com/quikDB) and [StackPay]([https://github.com/psalmuel01/blochealth](https://github.com/Psalmuel01/stackpay))
 
 - 🌱 I’m currently learning **Rust and Zk**
 
@@ -26,9 +26,10 @@
 <p align="left">
 <a href="https://twitter.com/psalmuel_1st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dahunsisamuel5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samuel-dahunsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-dahunsi" height="30" width="40" /></a>
-<a href="https://instagram.com/dahunsi_sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dahunsi_sam" height="30" width="40" /></a>
-<a href="https://www.behance.net/psalmuel01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="psalmuel01" height="30" width="40" /></a>
+<a href="https://instagram.com/sam_dahunsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sam_dahunsi" height="30" width="40" /></a>
 <a href="https://medium.com/@dahunsisamuel1st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dahunsisamuel1st" height="30" width="40" /></a>
+</p>
+<a href="https://psalmuel.hashnode.dev" target="blank"><img align="center" src="https://ik.imagekit.io/9okxyhdq0/hashnode.png?updatedAt=1751789747625" alt="@dahunsisamuel1st" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
