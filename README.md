@@ -27,7 +27,6 @@
 <a href="https://linkedin.com/in/samuel-dahunsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-dahunsi" height="30" width="40" /></a>
 <a href="https://instagram.com/sam_dahunsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sam_dahunsi" height="30" width="40" /></a>
 <a href="https://medium.com/@dahunsisamuel1st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dahunsisamuel1st" height="30" width="40" /></a>
-</p>
 <a href="https://psalmuel.hashnode.dev" target="blank"><img align="center" src="https://ik.imagekit.io/9okxyhdq0/hashnode.png?updatedAt=1751789747625" alt="@dahunsisamuel1st" height="30" width="40" /></a>
 </p>
 
