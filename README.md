@@ -35,30 +35,6 @@ Outside work, I build open-source projects and study proof systems—including *
 - 🎧 I enjoy building with music in the background
 - 📫 Reach me at [dahunsisamuel1st@gmail.com](mailto:dahunsisamuel1st@gmail.com)
 
-## Selected work
-
-### [AgentHub](https://github.com/Psalmuel01/agenthub)
-
-An x402-powered marketplace on Algorand where developers and AI agents can discover and pay per request for specialized tools—without subscriptions or conventional API-key billing.
-
-### [Privara](https://github.com/Psalmuel01/privara)
-
-Privacy-oriented payment infrastructure for Stacks, using signed intents and relayer-mediated settlement to reduce direct wallet-graph linkage.
-
-### [StellarCred](https://github.com/ToluLabs/StellarCred)
-
-Reusable zero-knowledge credentials on Stellar, allowing users to prove attributes without repeatedly exposing the underlying information.
-
-### [Lucent](https://github.com/ToluLabs/Lucent)
-
-A confidential payments system on Stellar exploring private transfers, payroll, escrow, and programmable compliance.
-
-### [ZK Cryptography](https://github.com/Psalmuel01/zk_cryptography_study)
-
-Rust implementations, experiments, and study notes for understanding zero-knowledge proofs and their underlying cryptographic primitives from first principles.
-
-→ **[Explore more projects](https://samueldahunsi.me/projects)**
-
 ## Technical focus
 
 ### Backend and product engineering
