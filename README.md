@@ -1,40 +1,99 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://psalmuel.lovable.app)
+<h1 align="center">Hi, I’m Samuel Dahunsi 👋</h1>
 
-<h1 align="center">Hi 👋, I'm Samuel Dahunsi</h1>
-<h3 align="center">Web3 FullStack Developer</h3>
+<h3 align="center">Software Engineer · Backend, DevRel & ZK Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=psalmuel01&label=Profile%20views&color=0e75b6&style=flat" alt="psalmuel01" /> </p>
-
-<p align="right"> <a href="https://twitter.com/psalmuel_1st" target="blank"><img src="https://img.shields.io/twitter/follow/psalmuel_1st?logo=twitter&style=for-the-badge" alt="psalmuel_1st" /></a> </p>
-
-- 🔭 I’m currently working on [QuikDB](https://github.com/quikDB) and [StackPay](https://github.com/Psalmuel01/stackpay)
-
-- 🌱 I’m currently learning **Rust and Zk**
-
-- 💬 Ask me about **JavaScript, React, Solidity and ZK**
-
-- 📫 How to reach me **dahunsisamuel1st@gmail.com**
-
-- ⚡ Fun fact **I love coding with music**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/psalmuel_1st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dahunsisamuel5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samuel-dahunsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-dahunsi" height="30" width="40" /></a>
-<a href="https://instagram.com/sam_dahunsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sam_dahunsi" height="30" width="40" /></a>
-<a href="https://medium.com/@dahunsisamuel1st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dahunsisamuel1st" height="30" width="40" /></a>
-<a href="https://psalmuel.hashnode.dev" target="blank"><img align="center" src="https://ik.imagekit.io/9okxyhdq0/hashnode.png?updatedAt=1751789747625" alt="@dahunsisamuel1st" height="30" width="40" /></a>
+<p align="center">
+  I build backend infrastructure, developer platforms, full-stack products, blockchain applications, and zero-knowledge systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://samueldahunsi.me">Portfolio</a> •
+  <a href="https://samueldahunsi.me/projects">Projects</a> •
+  <a href="https://samueldahunsi.me/writing">Technical Writing</a> •
+  <a href="https://www.linkedin.com/in/samueldahunsi">LinkedIn</a> •
+  <a href="https://x.com/psalmuel_1st">X</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psalmuel01&show_icons=true&locale=en&layout=compact" alt="psalmuel01" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=psalmuel01&label=Profile%20views&color=84cc16&style=flat" alt="Samuel Dahunsi's profile views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psalmuel01&show_icons=true&locale=en" alt="psalmuel01" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psalmuel01&" alt="psalmuel01" /></p>
+## About me
+
+I’m a software engineer working across backend development, developer experience, full-stack products, blockchain protocols, and applied cryptography.
+
+I currently work as a **DevRel & Backend Engineer at [QuikDB](https://quikdb.com/)**, where I contribute to developer tooling, platform features, technical education, and the systems that help developers deploy and manage applications.
+
+Outside work, I build open-source projects and study proof systems—including **sumcheck, GKR, polynomial commitments, and Rust implementations of zero-knowledge protocols**.
+
+- 🔭 Building developer infrastructure and privacy-preserving applications
+- 🦀 Studying and implementing cryptographic protocols in Rust
+- 💬 Ask me about backend engineering, developer experience, ZK, and blockchain
+- 🎓 B.Sc. Mathematics, Obafemi Awolowo University
+- 🎧 I enjoy building with music in the background
+- 📫 Reach me at [dahunsisamuel1st@gmail.com](mailto:dahunsisamuel1st@gmail.com)
+
+## Selected work
+
+### [AgentHub](https://github.com/Psalmuel01/agenthub)
+
+An x402-powered marketplace on Algorand where developers and AI agents can discover and pay per request for specialized tools—without subscriptions or conventional API-key billing.
+
+### [Privara](https://github.com/Psalmuel01/privara)
+
+Privacy-oriented payment infrastructure for Stacks, using signed intents and relayer-mediated settlement to reduce direct wallet-graph linkage.
+
+### [StellarCred](https://github.com/ToluLabs/StellarCred)
+
+Reusable zero-knowledge credentials on Stellar, allowing users to prove attributes without repeatedly exposing the underlying information.
+
+### [Lucent](https://github.com/ToluLabs/Lucent)
+
+A confidential payments system on Stellar exploring private transfers, payroll, escrow, and programmable compliance.
+
+### [ZK Cryptography](https://github.com/Psalmuel01/zk_cryptography_study)
+
+Rust implementations, experiments, and study notes for understanding zero-knowledge proofs and their underlying cryptographic primitives from first principles.
+
+→ **[Explore more projects](https://samueldahunsi.me/projects)**
+
+## Technical focus
+
+### Backend and product engineering
+
+`TypeScript` · `JavaScript` · `Node.js` · `Express` · `PostgreSQL` · `MongoDB` · `REST APIs` · `Docker` · `AWS`
+
+### Frontend engineering
+
+`React` · `Next.js` · `Redux` · `Tailwind CSS` · `Responsive UI` · `Frontend Architecture`
+
+### Blockchain and cryptography
+
+`Rust` · `Solidity` · `Clarity` · `Noir` · `Foundry` · `Hardhat` · `Zero-Knowledge Proofs` · `Smart Contracts`
+
+### Developer experience
+
+`Technical Writing` · `Developer Documentation` · `Developer Tooling` · `Community Education` · `Open Source`
+
+## Current interests
+
+- Production backend architecture and observability
+- Developer experience for infrastructure products
+- Sumcheck, GKR, and polynomial commitment schemes
+- Implementing proof systems in Rust
+- Privacy-preserving and verifiable applications
+
+## Let’s connect
+
+I’m interested in engineering roles and collaborations involving backend systems, developer infrastructure, full-stack products, blockchain protocols, or applied cryptography.
+
+<p>
+  <a href="mailto:dahunsisamuel1st@gmail.com">Mail</a> •
+  <a href="https://samueldahunsi.me">Portfolio</a> •
+  <a href="https://github.com/Psalmuel01">GitHub</a> •
+  <a href="https://www.linkedin.com/in/samueldahunsi">LinkedIn</a> •
+  <a href="https://x.com/psalmuel_1st">X</a> •
+  <a href="https://dev.to/psalmuel1st">DEV</a>
+</p>
