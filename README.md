@@ -22,11 +22,11 @@
 
 ## About me
 
-I’m a software engineer working across backend development, developer experience, full-stack products, blockchain protocols, and applied cryptography.
+I’m a software engineer working across backend systems, blockchain protocols, developer tooling, full-stack products, and applied cryptography.
 
-I currently work as a **DevRel & Backend Engineer at [QuikDB](https://quikdb.com/)**, where I contribute to developer tooling, platform features, technical education, and the systems that help developers deploy and manage applications.
+I’m a **Co-Founder and Engineer at [QuikDB](https://quikdb.com/)**, where I work on platform infrastructure, developer tooling, product features, and developer experience. I’m also the founder of **[Privara](https://useprivara.xyz/)**, a privacy-focused payment protocol, and I build across ecosystems including **Ethereum, Stacks, and other programmable blockchain systems**.
 
-Outside work, I build open-source projects and study proof systems—including **sumcheck, GKR, polynomial commitments, and Rust implementations of zero-knowledge protocols**.
+Outside of work, I contribute to open-source projects and explore zero-knowledge proof systems, with a particular interest in **sumcheck, GKR, polynomial commitments, and implementing cryptographic protocols in Rust**.
 
 - 🔭 Building developer infrastructure and privacy-preserving applications
 - 🦀 Studying and implementing cryptographic protocols in Rust
