@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I’m Samuel Dahunsi 👋</h1>
 
-<h3 align="center">Software Engineer · Backend, DevRel & ZK Systems</h3>
+<h3 align="center">Software Engineer · Full Stack, Protocols & ZK</h3>
 
 <p align="center">
-  I build backend infrastructure, developer platforms, full-stack products, blockchain applications, and zero-knowledge systems.
+  I build backend infrastructure, developer platforms, full-stack products, blockchain protocols, and zero-knowledge systems.
 </p>
 
 <p align="center">
@@ -28,9 +28,9 @@ I’m a **Co-Founder and Engineer at [QuikDB](https://quikdb.com/)**, where I wo
 
 Outside of work, I contribute to open-source projects and explore zero-knowledge proof systems, with a particular interest in **sumcheck, GKR, polynomial commitments, and implementing cryptographic protocols in Rust**.
 
-- 🔭 Building developer infrastructure and privacy-preserving applications
+- 🔭 Building developer infrastructure, blockchain protocols, and privacy-preserving applications
 - 🦀 Studying and implementing cryptographic protocols in Rust
-- 💬 Ask me about backend engineering, developer experience, ZK, and blockchain
+- 💬 Ask me about backend engineering, protocol development, developer experience, ZK, and blockchain
 - 🎓 B.Sc. Mathematics, Obafemi Awolowo University
 - 🎧 I enjoy building with music in the background
 - 📫 Reach me at [dahunsisamuel1st@gmail.com](mailto:dahunsisamuel1st@gmail.com)
@@ -55,15 +55,16 @@ Outside of work, I contribute to open-source projects and explore zero-knowledge
 
 ## Current interests
 
-- Production backend architecture and observability
+- Backend infrastructure and distributed systems
 - Developer experience for infrastructure products
 - Sumcheck, GKR, and polynomial commitment schemes
-- Implementing proof systems in Rust
+- Implementing proof systems and cryptographic protocols in Rust
 - Privacy-preserving and verifiable applications
+- Blockchain protocol engineering across Ethereum and Bitcoin-adjacent ecosystems
 
 ## Let’s connect
 
-I’m interested in engineering roles and collaborations involving backend systems, developer infrastructure, full-stack products, blockchain protocols, or applied cryptography.
+I’m interested in engineering roles and collaborations involving backend systems, developer infrastructure, blockchain protocols, full-stack products, or applied cryptography.
 
 <p>
   <a href="mailto:dahunsisamuel1st@gmail.com">Mail</a> •
